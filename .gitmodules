@@ -1,0 +1,6 @@
+[submodule "my_submodule"]
+	path = my_submodule
+	url = git@github.com:diksha-ncompass/practice-day-3.git
+[submodule "my_sec_repo"]
+	path = my_sec_repo
+	url = git@github.com:diksha-ncompass/practice-2.git
